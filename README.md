@@ -1,9 +1,9 @@
 # files_piles
-Module d'implémentation des files et des piles dans python par les listes.
-Ceci est mon premier module, donc le code n'est pas très avancé.
+Module simpliste d'implémentation des files et des piles dans python par les listes.
 
 Pour obtenir l'aide du module faites :
 
-'help(piles_module)' #Aide pour les piles
-'help(files_module)' #Aide pour les files
-
+~~~python
+help(piles_module) #Aide sur les piles
+help(files_module) #Aide sur les files
+~~~~
